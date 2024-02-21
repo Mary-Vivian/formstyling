@@ -1,0 +1,29 @@
+#button{
+    background-color: black; width: 50%;
+    color: white;
+    
+}
+#form{
+    
+    width: 50%;
+    padding: 24px;
+    margin: 0 auto;
+    border: solid 1px;
+}
+#signin{
+width: 50%;
+padding: 24px;
+margin: 0 auto;
+border:solid 1px;
+}
+#button2{
+    background-color: black;width: 50%;
+    color: white;
+}
+#table{
+    border: solid 5px;width: 400px;
+    border-collapse:separate;border: 1px;
+    th{border: 1px solid ;}
+    td{border: 1px solid;}
+}
+
