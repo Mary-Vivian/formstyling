@@ -4,13 +4,14 @@
     
 }
 #form{
-    
+    text-align: center;
     width: 50%;
     padding: 24px;
     margin: 0 auto;
     border: solid 1px;
 }
 #signin{
+    text-align: center;
 width: 50%;
 padding: 24px;
 margin: 0 auto;
@@ -25,5 +26,8 @@ border:solid 1px;
     border-collapse:separate;border: 1px;
     th{border: 1px solid ;}
     td{border: 1px solid;}
+}
+#icon{
+text-align: center;
 }
 
